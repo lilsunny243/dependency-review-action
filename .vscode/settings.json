@@ -1,5 +1,8 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "GitHooks.hooksDirectory": "/Users/bakedsunny/Documents/GitHub/dependency-review-action/.git/hooks"
+  "GitHooks.hooksDirectory": "/Users/bakedsunny/Documents/GitHub/dependency-review-action/.git/hooks",
+  "cSpell.words": [
+    "devcontainers"
+  ]
 }
